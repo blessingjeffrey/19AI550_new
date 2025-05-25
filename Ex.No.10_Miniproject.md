@@ -1,6 +1,6 @@
 # Ex.No: 10  Implementation of Flappy bird game
 ### DATE:                                                                            
-### REGISTER NUMBER : 212222240094 
+### REGISTER NUMBER : 212223220014
 ### AIM: 
 To develop a game flappy bird in Unity 
 ### Algorithm:
